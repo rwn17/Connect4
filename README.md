@@ -6,4 +6,4 @@
 
 * The win rate against 90.so is over 90%, against 94.so is about 60%, 100.so is about 30%.
 
-* Some of idea was learned from [*https://github.com/duzx16/Connect4AI*]{https://github.com/duzx16/Connect4AI}
+* Some of idea was learned from *https://github.com/duzx16/Connect4AI*
