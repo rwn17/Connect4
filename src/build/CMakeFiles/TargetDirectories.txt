@@ -1,0 +1,3 @@
+/home/weining/code/AI_Linux/Strategy/build/CMakeFiles/rebuild_cache.dir
+/home/weining/code/AI_Linux/Strategy/build/CMakeFiles/My_strategy.dir
+/home/weining/code/AI_Linux/Strategy/build/CMakeFiles/edit_cache.dir
